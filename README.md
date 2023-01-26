@@ -28,4 +28,4 @@ Projeto integrador ODS1
 <br> nome: Assunto. <br>
 <br> descricao: Descrição do tema. <br>
 
-![](docs/projetointegrador.mwb)
+![](docs/diagrama_projeto_integrador.png)
